@@ -1,0 +1,26 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "Alex"
+  },
+  "plugins": [
+    {
+      "name": "helper-desk",
+      "source": "./helper-desk",
+      "description": "Helper Desk: a purple task progress bar above the prompt that moves as each to-do item is done, and a side pane that shows only the subagents still running",
+      "version": "1.10.0"
+    },
+    {
+      "name": "agent-alert",
+      "source": "./agent-alert",
+      "description": "A line above your Claude Code prompt when another Claude Code session on this computer needs you (an approval, an answer), with a Go button that opens a desktop-app session's chat in the Claude desktop app, and a toast when one finishes its turn. Reads only the status files Claude Code keeps for its sessions; sends nothing.",
+      "version": "2.3.0"
+    },
+    {
+      "name": "setup-pane",
+      "source": "./setup-pane",
+      "description": "A side pane, My setup, with tabs for your Claude Code setup: what it cost this week, what is scheduled, your agents, mods, plugins, skills, MCP servers, hooks and settings",
+      "version": "1.0.15"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "agent-alert",
+  "version": "2.3.0",
+  "description": "A line above your Claude Code prompt when another Claude Code session on this computer needs you (an approval, an answer), with a Go button that opens a desktop-app session's chat in the Claude desktop app, and a toast when one finishes its turn. Reads only the status files Claude Code keeps for its sessions; sends nothing.",
+  "author": {
+    "name": "Alex"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "sessions",
+    "notifications",
+    "alerts"
+  ],
+  "types": "./types/index.d.ts"
+}

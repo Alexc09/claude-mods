@@ -1,0 +1,9 @@
+{
+  "name": "helper-desk",
+  "version": "1.10.0",
+  "description": "Helper Desk: a purple task progress bar above the prompt that moves as each to-do item is done, and a side pane that shows only the subagents still running",
+  "author": {
+    "name": "Alex"
+  },
+  "types": "./types/index.d.ts"
+}

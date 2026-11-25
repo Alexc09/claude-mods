@@ -1,0 +1,9 @@
+{
+  "name": "setup-pane",
+  "version": "1.0.15",
+  "description": "A side pane, My setup, with tabs for your Claude Code setup: what it cost this week, what is scheduled, your agents, mods, plugins, skills, MCP servers, hooks and settings",
+  "author": {
+    "name": "Alex"
+  },
+  "types": "./types/index.d.ts"
+}
